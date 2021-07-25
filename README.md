@@ -3,12 +3,12 @@ Best parser evaaa
 
 ## Installation:
 ```
-npm i @lusha/mock-parser
+npm i lusha-mock-parser
 ```
 
 ## Usage
 ```
-const parse = require('@lusha/mock-parser');
+const parse = require('lusha-mock-parser');
 
 console.log(parse('www.mysite.com'));
 ```

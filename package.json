@@ -1,5 +1,5 @@
 {
-  "name": "@lusha/mock-parser",
+  "name": "lusha-mock-parser",
   "version": "1.0.0",
   "description": "Best parser evaaa",
   "main": "index.js",
